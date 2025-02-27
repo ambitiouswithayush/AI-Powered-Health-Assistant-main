@@ -51,10 +51,10 @@ If an "appointment" query is detected, it will just print the pre-defined messag
 The **AI-Powered Health Assistant** demonstrates the potential of AI-driven healthcare solutions and its scalability, thereby bridging the gap between medical expertise and users seeking reliable health information.
 
 ### Author
-👤 **Rohith Reddy.G.K**
+👤 **Ayush Kumar**
 
-Github: [@RohithReddyGK](https://github.com/RohithReddyGK)  
-LinkedIn: [@rohithreddygk](https://linkedin.com/in/rohithreddygk)
+Github: [@ambitiouswithayush]( https://github.com/ambitiouswithayush/AI-Powered-Health-Assistant-main)  
+LinkedIn: [@rohithreddygk](https://www.linkedin.com/in/ayush-kumar-215963280)
 
 ### Show your support
 Give a ⭐️ if you like this project!
